@@ -7,4 +7,4 @@
 
 ## My stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiskiso&show_icons=true&count_private=true&theme=vue-dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiskiso&show_icons=true&count_private=true&theme=github_dark)  
