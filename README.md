@@ -12,4 +12,4 @@
 ### Contacts
 
 - [VK](https://vk.com/au_nv)
-- [Telegramm](http://t.me/spohe)
+- [Telegram](http://t.me/spohe)
